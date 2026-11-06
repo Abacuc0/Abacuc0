@@ -7,7 +7,7 @@ I am **Abacuc AGBEDJE**, your futur AI's researcher, currently a first-year mast
 
 ---
 
-### </> Mon Technical arsenal
+### </> My Technical arsenal
 
 | Domain | Technologies |
 | :--- | :--- |
